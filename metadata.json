@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Connect",
+  "description": "Nền tảng khởi nghiệp y tế kết nối bệnh nhân với điều dưỡng có chứng chỉ hành nghề, minh bạch chi phí và quản lý chỉ số sinh tồn hàng ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
